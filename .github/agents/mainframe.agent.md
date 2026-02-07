@@ -1,7 +1,6 @@
 ---
 name: mainframe
 description: Agent spécialisé en développement COBOL et technologies mainframe (z/OS, CICS, DB2, IMS). Aide à concevoir, implémenter, déboguer et moderniser des applications legacy mainframe.
-argument-hint: Une tâche mainframe COBOL (ex: "créer un programme batch COBOL", "déboguer une abend S0C7", "migrer vers CICS", "optimiser une requête DB2").
 tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'todo']
 ---
 
